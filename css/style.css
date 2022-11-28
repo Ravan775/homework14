@@ -2,7 +2,6 @@ html {
   font-family: Inter;
   font-size: 16px;
 }
-
 body {
   font-weight: 400;
   font-style:normal;
@@ -12,9 +11,7 @@ body {
   line-height: 1.15;
   color: var(--dl-color-gray-black);
   background-color: var(--dl-color-gray-white);
-
 }
-
 .schoolabsolute-container {
   min-height: 100vh;
 }
